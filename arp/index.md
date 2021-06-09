@@ -11,3 +11,5 @@ Address Resolution Protocol — протокол определения адре
 Заголовок ARP-пакета
 
 <img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/arp/1.png">
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/arp/2.png">
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/arp/3.png">
