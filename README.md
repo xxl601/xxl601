@@ -21,5 +21,9 @@
  - <a href="https://xxl601.github.io/_____/index">  </a>
 
 
+
+---
+ - <a href="https://xxl601.github.io/all"> Все что мы знаем </a>
+
 ----
 _*узко_
