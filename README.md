@@ -23,7 +23,7 @@
  - <a href="https://xxl601.github.io/p_i/index"            > Протокол и интерфейс * </a>
  - <a href="https://xxl601.github.io/phisic/index"         > Физический и логический </a>
  - <a href="https://xxl601.github.io/marshrut-table/index" > Таблица маршрутизации </a>
- - <a href="https://xxl601.github.io/setup/index"         > Настройка сетевых устройств </a>
+ - <a href="https://xxl601.github.io/setup/index"          > Настройка сетевых устройств </a>
  - <a href="https://xxl601.github.io/internet/index"       > Настройка к интернету компьютера </a>
  - <a href="https://xxl601.github.io/interfaces/index"     > Интерфейсы подключения коммутатора </a>
  - <a href="https://xxl601.github.io/methods/index"        > Методы доступа к среде информации </a>
@@ -41,7 +41,9 @@
 -->
 
 
-</br></br></br>
+</br>
+</br>
+</br>
 
 
 ---
