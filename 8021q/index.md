@@ -11,3 +11,21 @@ TPID, идентификатор протокола тегирования
 
 
 <img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/8021q/1.png">
+
+
+ - Access Port – участники VLAN сетей 
+ - Trunk Port – проводники между VLAN сетями
+ - CAM table – таблица кто куда.
+
+
+ - Позволяет разделить одну физическую сеть на несколько логических (независимых)
+ - Безопасность
+ - Распределение нагрузки
+ - Ограничение широковещательного трафика
+ - Трафик бегает только по логической сети
+
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/8021q/2.png">
+
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/8021q/3.png">
+
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/8021q/4.png">
