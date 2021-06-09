@@ -1,3 +1,5 @@
+#### mac-address-table
+
 1. VLAN
 2. MAC Address
 3. Type (dynamic/static)
@@ -6,3 +8,7 @@
 
 
 <img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/mac-table/1.png">
+
+#### FDB-table
+
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/mac-table/2.png">
