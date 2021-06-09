@@ -63,4 +63,5 @@ ADSP (AppleTalk Data Stream Protocol), ASP (AppleTalk Session Protocol), H.245 (
 
 
 <img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/osi_2/1.png">
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/osi_2/2.png">
 
