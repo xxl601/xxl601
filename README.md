@@ -28,7 +28,7 @@
  - <a href="https://xxl601.github.io/marshrut-table/index"> Таблица маршрутизации </a>
  - <a href="https://xxl601.github.io/ngn/index"> NGN, Мультисервесные сети связи </a>
  - <a href="https://xxl601.github.io/gsm/index"> GSM </a>
- - <a href="https://xxl601.github.io/_____/index">  </a>
+ - <a href="https://xxl601.github.io/end-node/index"> Конечные узлы </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
 
 
