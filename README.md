@@ -6,14 +6,14 @@
  - <a href="https://xxl601.github.io/rep_sw_ro/index"> Маршрутизатор, коммутатор, концентратор </a>
  - <a href="https://xxl601.github.io/interfaces/index"> Интерфейсы подключения коммутатора </a>
  - <a href="https://xxl601.github.io/methods/index"> Методы доступа к среде информации </a>
- - <a href="https://xxl601.github.io/8021q/index"> 802.1Q </a>
+ - <a href="https://xxl601.github.io/8021q/index"> 802.1Q (aka) VLAN</a>
  - <a href="https://xxl601.github.io/mpls/index"> MPLS </a>
  - <a href="https://xxl601.github.io/wep/index"> WEP </a>
  - <a href="https://xxl601.github.io/p_i/index"> Протокол и интерфейс * </a>
  - <a href="https://xxl601.github.io/tcp/index"> TCP </a>
  - <a href="https://xxl601.github.io/udp/index"> UDP </a>
-  
- - <a href="https://xxl601.github.io/_____/index">  </a>
+
+
  - <a href="https://xxl601.github.io/_____/index">  </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
