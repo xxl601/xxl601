@@ -15,6 +15,8 @@
  - <a href="https://xxl601.github.io/ip/index"> IP </a>
  - <a href="https://xxl601.github.io/ip-tasks/index"> IP - задачки </a>
  - <a href="https://xxl601.github.io/ethernet/index"> Ethernet </a>
+ - <a href="https://xxl601.github.io/duplex/index"> Полудуплексный/дуплексный режимы работы </a>
+ - <a href="https://xxl601.github.io/admin/index"> Администратор, пользователь их привелегии </a>
 
 
  - <a href="https://xxl601.github.io/_____/index">  </a>
