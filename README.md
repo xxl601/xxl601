@@ -26,7 +26,11 @@
  - <a href="https://xxl601.github.io/stp/index"> STP </a>
  - <a href="https://xxl601.github.io/mac-table/index"> Таблица MAC-адресов | FDB-таблица </a>
  - <a href="https://xxl601.github.io/marshrut-table/index"> Таблица маршрутизации </a>
+ - <a href="https://xxl601.github.io/ngn/index"> NGN, Мультисервесные сети связи </a>
+ - <a href="https://xxl601.github.io/gsm/index"> GSM </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
+ - <a href="https://xxl601.github.io/_____/index">  </a>
+
 
  - <a href="https://xxl601.github.io/_____/index">  </a>
 
