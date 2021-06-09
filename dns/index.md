@@ -8,3 +8,8 @@ DNS протокол (Domain Name System означает) - служба (си�
 | domain | ip-addres |
 | --- | --- |
 | example.net | 234.123.123.22 |
+
+
+
+
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/dns/1.png">
