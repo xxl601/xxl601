@@ -58,3 +58,9 @@ ADSP (AppleTalk Data Stream Protocol), ASP (AppleTalk Session Protocol), H.245 (
 ### 7 Ур. Приложении
 
 Протоколам седьмого уровня не требуется обеспечивать маршрутизацию или гарантировать доставку данных, когда об этом уже позаботились предыдущие шесть. Задача седьмого уровня — использовать свои протоколы, чтобы пользователь увидел данные в понятном ему виде.UDP (DHCP, FTP) или TCP (HTTP, HTTPS, SFTP, DNS)
+
+
+
+
+<img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/osi_2/1.png">
+
