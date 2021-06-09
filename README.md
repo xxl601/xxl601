@@ -6,10 +6,10 @@
  - <a href="https://xxl601.github.io/interfaces/index"> Интерфейсы подключения коммутатора </a>
  - <a href="https://xxl601.github.io/methods/index"> Методы доступа к среде информации </a>
  - <a href="https://xxl601.github.io/8021q/index"> 802.1Q </a>
+ - <a href="https://xxl601.github.io/mpls/index"> MPLS </a>
+ - <a href="https://xxl601.github.io/wep/index"> WEP </a>
 
 
- - <a href="https://xxl601.github.io/_____/index">  </a>
- - <a href="https://xxl601.github.io/_____/index">  </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
