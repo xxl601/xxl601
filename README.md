@@ -14,7 +14,7 @@
  - <a href="https://xxl601.github.io/udp/index"> UDP </a>
  - <a href="https://xxl601.github.io/ip/index"> IP </a>
  - <a href="https://xxl601.github.io/ip-tasks/index"> IP - задачки </a>
-
+ - <a href="https://xxl601.github.io/ethernet/index"> Ethernet </a>
 
 
  - <a href="https://xxl601.github.io/_____/index">  </a>
