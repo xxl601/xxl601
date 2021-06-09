@@ -23,7 +23,7 @@
  - <a href="https://xxl601.github.io/dns/index"> DNS </a>
  - <a href="https://xxl601.github.io/musers/index"> Многопользовательский режим в Cisco Packet Tracer </a>
  - <a href="https://xxl601.github.io/bgp/index"> BGP </a>
- - <a href="https://xxl601.github.io/_____/index">  </a>
+ - <a href="https://xxl601.github.io/stp/index"> STP </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
 
 
