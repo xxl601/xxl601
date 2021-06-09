@@ -31,7 +31,7 @@
  - <a href="https://xxl601.github.io/end-node/index"> Конечные узлы </a>
  - <a href="https://xxl601.github.io/cisco-pt-window/index"> Cisco Packet Tracer окно программы </a>
  - <a href="https://xxl601.github.io/2l-sw/index"> Коммутатор 2-го уровня и его функции </a>
- - <a href="https://xxl601.github.io/lvl-mix/index"> Раскидать по уровням </a>
+ - <a href="https://xxl601.github.io/lvl-mix/index"> OSI - Раскидать по уровням </a>
 
 <!---
  - <a href="https://xxl601.github.io/_____/index">  </a>
