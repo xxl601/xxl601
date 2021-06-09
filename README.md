@@ -17,9 +17,12 @@
  - <a href="https://xxl601.github.io/ethernet/index"> Ethernet </a>
  - <a href="https://xxl601.github.io/duplex/index"> Полудуплексный/дуплексный режимы работы </a>
  - <a href="https://xxl601.github.io/admin/index"> Администратор, пользователь их привелегии </a>
-
-
+ - <a href="https://xxl601.github.io/phisic/index"> Физический и логический </a>
+ - <a href="https://xxl601.github.io/rip/index"> RIP </a>
+ - <a href="https://xxl601.github.io/internet/index"> Настройка к интернету компьютера </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
+
+
  - <a href="https://xxl601.github.io/_____/index">  </a>
 
 
