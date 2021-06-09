@@ -20,6 +20,10 @@
  - <a href="https://xxl601.github.io/phisic/index"> Физический и логический </a>
  - <a href="https://xxl601.github.io/rip/index"> RIP </a>
  - <a href="https://xxl601.github.io/internet/index"> Настройка к интернету компьютера </a>
+ - <a href="https://xxl601.github.io/dns/index"> DNS </a>
+ - <a href="https://xxl601.github.io/musers/index"> Многопользовательский режим в Cisco Packet Tracer </a>
+ - <a href="https://xxl601.github.io/bgp/index"> BGP </a>
+ - <a href="https://xxl601.github.io/_____/index">  </a>
  - <a href="https://xxl601.github.io/_____/index">  </a>
 
 
