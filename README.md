@@ -48,5 +48,12 @@
 
  - <a href="https://xxl601.github.io/all"> Все что мы знаем *</a>
 
-----
+---
+
+Доп. ресурсы, зеркала:
+- <a href="https://pastebin.com/HPMgccKs"> Pastebin-HP </a>
+- <a href="https://pastebin.com/9kz9pv5e"> Pastebin-9KZ </a>
+
+
+---
 _* - узко_
