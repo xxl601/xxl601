@@ -1,0 +1,38 @@
+ - show switch
+ - show  ipif
+ - config ipif System ipaddress 192.168.53.173/24
+ - show time
+ - iproute default 192.168.53.1 1  (шлюз в интернет)
+ - 
+ - enable sntp
+ - config sntp primary 130.149.17.21 secondary 130.149.17.8 poll-interval 60
+ - config time ddmmyyyy hh:mm:ss
+ - reate account <admin/operator/user>
+ - config ports 2-5 speed 10_full flow_control enable
+ - show ports
+ - config ports all learning disable
+ - 
+ - clear fdb all (удалить динм. Адреса из fdb)
+ - create fdb default <MACaddr> port 1
+ - config arp_aging time 60
+ - create arpentry 192.168.53.174 <MACaddr>
+ - config arpentry 192.168.53.174 <MACaddr>
+ - 
+ - upload configuration 192.168.53.103 <имя_файла>
+ - reset
+ - download   configuration   192.168.53.103   <имя_файла>
+ - 
+ - create vlan valnid <VLAN_N>
+ - config vlan vlanid <VLAN_N> adduntagged <PORT(S)>
+ - show vlan
+ - config vlanvlanid <VLAN_N(S)> advertisement enable
+ - 
+ - enable gvrp
+ - config gvrp <PORT(S)> state enable
+ - show gvrp
+ - delete vlan vlanid <VLAN_N>
+ - enable asymmetric vlan
+ - config vlan vlanid <VLAN_N> add untagged <PORT(S)>
+ - config  gvrp <PORT(S)> pvid <VLAN_N> (2-10 VLAN V2,  23-26 VLAN Default)
+ - 
+ - 
