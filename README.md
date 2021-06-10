@@ -33,6 +33,7 @@
  - <a href="https://xxl601.github.io/rep_sw_ro/index"      > Маршрутизатор, коммутатор, концентратор </a>
  - <a href="https://xxl601.github.io/duplex/index"         > Полудуплексный/дуплексный режимы работы </a>
  - <a href="https://xxl601.github.io/admin/index"          > Администратор, пользователь их привелегии </a>
+ - <a href="https://xxl601.github.io/im-web/index"         > Зачем нужны имитационные компьютерные сети </a>
  - <a href="https://xxl601.github.io/musers/index"         > Многопользовательский режим в Cisco Packet Tracer </a>
 
 
