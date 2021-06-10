@@ -34,3 +34,6 @@ E: 11110___.x.x.x | зарезервировано | -          | -
 
 
 <img src="https://raw.githubusercontent.com/xxl601/xxl601.github.io/main/ip/1.png">
+
+
+247 или 8 idk
