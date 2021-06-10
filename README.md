@@ -17,6 +17,7 @@
  - <a href="https://xxl601.github.io/mpls/index"           > MPLS </a>
  - <a href="https://xxl601.github.io/8021q/index"          > 802.1Q (aka) VLAN</a>
  - <a href="https://xxl601.github.io/wep/index"            > WEP </a>
+ - <a href="https://xxl601.github.io/reset/index"          > Reset system / config  </a>
  - <a href="https://xxl601.github.io/mac-table/index"      > Таблица MAC-адресов | FDB-таблица </a>
  - <a href="https://xxl601.github.io/ngn/index"            > NGN, Мультисервесные сети связи </a>
  - <a href="https://xxl601.github.io/end-node/index"       > Конечные узлы </a>
